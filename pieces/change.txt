@@ -1,0 +1,189 @@
+~ file_name = change.wav
+~ tempo = 80
+~ loudness = 2
+~ sample_rate = 48000
+~ num_of_channels = 2
+
+> start
+--1--
+4 C3 G3 C4 Eb5
+4 C3 G3 C4 Eb5 
+4 C3 G3 C4 Eb5 
+4 C3 G3 C4 Eb5 
+
+4 F2 C3 F3 Ab5 
+4 F2 C3 F3 Ab5 
+4 F2 C3 F3 Ab5 
+4 F2 C3 F3 Ab5 
+
+4 C3 G3 C4 Eb5   C5 G5 Bb5 C6 
+4 C3 G3 C4 Eb5   C5 G5 Bb5 C6 
+4 C3 G3 C4 Eb5   C5 G5 Bb5 C6 
+4 C3 G3 C4 Eb5   C5 G5 Bb5 C6 
+
+4 Ab3 Eb4 Ab4 G5   Ab4 Eb5 F5 G6
+4 Ab3 Eb4 Ab4 G5   Ab4 Eb5 F5 G6
+4 Ab3 Eb4 Ab4 G5   Ab4 Eb5 F5 G6
+4 Ab3 Eb4 Ab4 G5   Ab4 Eb5 F5 G6
+
+8 C3 G3 C4 Eb5
+8 C3 G3 C4 Eb5 
+8 F2 C3 F3 Ab5 
+8 F2 C3 F3 Ab5 
+8 C3 G3 C4 Eb5   C5 G5 Bb5 C6 
+8 C3 G3 C4 Eb5   C5 G5 Bb5 C6 
+8 Ab3 Eb4 Ab4 G5   Ab4 Eb5 F5 G6
+8 Ab3 Eb4 Ab4 G5   Ab4 Eb5 F5 G6
+
+1 C3 G3 C4 Eb5 Hi Ki
+1 C3 G3 C4 Eb5 Hi
+1 C3 G3 C4 Eb5 Hi 
+1 C3 G3 C4 Eb5 Hi
+
+1 C3 G3 C4 Eb5 Hi Sn
+1 C3 G3 C4 Eb5 Hi
+1 C3 G3 C4 Eb5 Hi
+1 C3 G3 C4 Eb5 Hi
+
+1 C3 G3 C4 Eb5 Hi Ki
+1 C3 G3 C4 Eb5 Hi Ki
+1 C3 G3 C4 Eb5 Hi 
+1 C3 G3 C4 Eb5 Hi
+
+1 C3 G3 C4 Eb5 Hi Sn
+1 C3 G3 C4 Eb5 Hi
+1 C3 G3 C4 Eb5 Hi
+0.5 C3 G3 C4 Eb5 Hi
+0.5 C3 G3 C4 Eb5 Hi
+
+--2--
+1 F2 C3 F3 Ab5 Hi Ki
+1 F2 C3 F3 Ab5 Hi
+1 F2 C3 F3 Ab5 Hi 
+1 F2 C3 F3 Ab5 SL
+1 F2 C3 F3 Ab5 Hi Sn
+1 F2 C3 F3 Ab5 Hi
+1 F2 C3 F3 Ab5 Hi
+1 F2 C3 F3 Ab5 SL
+1 F2 C3 F3 Ab5 Hi Ki
+1 F2 C3 F3 Ab5 Hi 
+1 F2 C3 F3 Ab5 Hi 
+1 F2 C3 F3 Ab5 SL
+1 F2 C3 F3 Ab5 Hi Sn
+1 F2 C3 F3 Ab5 Hi
+1 F2 C3 F3 Ab5 Hi
+0.5 F2 C3 F3 Ab5 Hi
+0.5 F2 C3 F3 Ab5 Hi
+
+--3--
+1 C3 G3 C4 Eb5 Hi Ki
+1 C3 G3 C4 Eb5 Hi
+1 C3 G3 C4 Eb5 Hi Ki
+1 C3 G3 C4 Eb5 Hi
+1 C3 G3 C4 Eb5 Hi Sn
+1 C3 G3 C4 Eb5 Hi
+1 C3 G3 C4 Eb5 Hi
+1 C3 G3 C4 Eb5 Hi
+1 C3 G3 C4 Eb5 Hi Ki
+1 C3 G3 C4 Eb5 Hi Ki
+1 C3 G3 C4 Eb5 Hi 
+1 C3 G3 C4 Eb5 Hi
+1 C3 G3 C4 Eb5 Hi Sn
+1 C3 G3 C4 Eb5 Hi
+1 C3 G3 C4 Eb5 Hi
+0.5 C3 G3 C4 Eb5 Hi
+0.5 C3 G3 C4 Eb5 Hi
+
+--4--
+1   F2 C3 F3 Ab5 Hi Ki
+1   F2 C3 F3 Ab5 Hi
+1   F2 C3 F3 Ab5 Hi 
+1   F2 C3 F3 Ab5 SL
+1   F2 C3 F3 Ab5 Hi Sn
+1   F2 C3 F3 Ab5 Hi
+1   F2 C3 F3 Ab5 Hi
+1   F2 C3 F3 Ab5 SL
+1   F2 C3 F3 Ab5 Hi Ki
+1   F2 C3 F3 Ab5 Hi 
+1   F2 C3 F3 Ab5 Hi 
+1   F2 C3 F3 Ab5 SL
+1   F2 C3 F3 Ab5 Hi Sn
+1   F2 C3 F3 Ab5 Hi
+1   F2 C3 F3 Ab5 Hi
+0.5 F2 C3 F3 Ab5 Hi
+0.5 F2 C3 F3 Ab5 Hi
+
+--5--  chorus1
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi Ki Cr
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi 
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6    Ki
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi Sn
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6    Ki
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi Ki
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6    Ki
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi 
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi Sn
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6    Ki
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6    Ki
+
+--6--
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi Ki Cr
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6    Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi Sn
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6  
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6    Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6    Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi 
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6    
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi Sn
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6    Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6    Ki
+
+--7--  chorus2
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi Ki Cr
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6  
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi 
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6    Ki
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi Sn
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6    
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6    Ki
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi Ki
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6    Ki
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi 
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi Sn
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6    Ki
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6 Hi
+1 C3 G3 C4 Eb5  C5 G5 Bb5 C6    Ki
+
+--8--
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi Ki Cr
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6    Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi Sn
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6    Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6    Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi 
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6    Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi Sn
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6    Ki
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6 Hi
+1 Ab3 Eb4 Ab4 G5  Ab4 Eb5 F5 G6    Ki
+
+
+> end

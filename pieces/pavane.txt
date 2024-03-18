@@ -1,0 +1,26 @@
+~ file_name = pavane_ravel.wav
+~ tempo = 60
+~ loudness = 3
+~ sample_rate = 48000
+~ num_of_channels = 2
+
+> start
+
+4   B4 G5
+4   B4 G5 D5
+4   G3 B4
+4   G3 B4 D5
+4   C3 B4
+4   C3 B4 E5 A5
+4   D4 B4 F#5
+4   D4 B4 F#5 E5
+4   D3 F#4 D5
+4   D3 F#4 D5 B4
+4   B3 B4 E5
+4   B3 B4 E5 F#4 F#5
+4   E3 G4 F#5
+4   E3 G4 F#5 B4 E5
+4   D4 G4 E5
+4   D4 G4 E5 B4
+
+> end

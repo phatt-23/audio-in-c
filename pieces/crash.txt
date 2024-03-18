@@ -1,0 +1,14 @@
+~ file_name = crash.wav
+~ tempo = 80
+~ loudness = 2
+~ sample_rate = 48000
+~ num_of_channels = 2
+
+> start
+
+8 Cr
+
+
+
+
+> end

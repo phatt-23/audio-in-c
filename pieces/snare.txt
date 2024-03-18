@@ -1,0 +1,11 @@
+~ file_name = snare.wav
+~ tempo = 80
+~ loudness = 2
+~ sample_rate = 48000
+~ num_of_channels = 2
+
+> start
+
+4 Sn
+
+> end

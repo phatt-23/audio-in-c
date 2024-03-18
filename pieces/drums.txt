@@ -1,0 +1,167 @@
+~ file_name = drum_beat.wav
+~ tempo = 80
+~ loudness = 2
+~ sample_rate = 48000
+~ num_of_channels = 2
+
+
+
+1 Hi Ki D#4 F#4 A#4 C#5   D#5 F#5 A#5 C#6
+1       D#4 F#4 A#4 C#5   D#5 F#5 A#5 C#6
+1 Hi    D#4 F#4 A#4 C#5   D#5 F#5 A#5 C#6
+1    Ki D#4 F#4 A#4 C#5   D#5 F#5 A#5 C#6
+1 Hi Sn F#4 A#4 C#5 E#5   F#5 A#5 C#6 E#6
+1       F#4 A#4 C#5 E#5   F#5 A#5 C#6 E#6
+1 Hi    F#4 A#4 C#5 E#5   F#5 A#5 C#6 E#6
+1    Ki F#4 A#4 C#5 E#5   F#5 A#5 C#6 E#6
+1 Hi Ki C#4 E#4 G#4 B#4   C#5 E#5 G#5 B#5
+1       C#4 E#4 G#4 B#4   C#5 E#5 G#5 B#5
+1 Hi Ki C#4 E#4 G#4 B#4   C#5 E#5 G#5 B#5
+1       C#4 E#4 G#4 B#4   C#5 E#5 G#5 B#5
+1 Hi Sn C#4 E#4 G#4 B#4   C#5 E#5 G#5 B#5
+1    Ki C#4 E#4 G#4 B#4   C#5 E#5 G#5 B#5
+1 Hi    C#4 E#4 G#4 B#4   C#5 E#5 G#5 B#5
+1    Ki C#4 E#4 G#4 B#4   C#5 E#5 G#5 B#5
+
+1 Hi Ki D4 F4 A4 C5   D5 F5 A5 C6
+1       D4 F4 A4 C5   D5 F5 A5 C6
+1 Hi    D4 F4 A4 C5   D5 F5 A5 C6
+1       D4 F4 A4 C5   D5 F5 A5 C6
+1 Hi Sn F4 A4 C5 E5   F5 A5 C6 E6
+1       F4 A4 C5 E5   F5 A5 C6 E6
+1 Hi    F4 A4 C5 E5   F5 A5 C6 E6
+1    Ki F4 A4 C5 E5   F5 A5 C6 E6
+1 Hi Ki C4 E4 G4 B4   C5 E5 G5 B5
+1       C4 E4 G4 B4   C5 E5 G5 B5
+1 Hi Ki C4 E4 G4 B4   C5 E5 G5 B5
+1       C4 E4 G4 B4   C5 E5 G5 B5
+1 Hi Sn C4 E4 G4 B4   C5 E5 G5 B5
+1       C4 E4 G4 B4   C5 E5 G5 B5
+1 Hi Ki C4 E4 G4 B4   C5 E5 G5 B5
+1       C4 E4 G4 B4   C5 E5 G5 B5
+
+1 Hi Ki Db4 Fb4 Ab4 Cb5   Db5 Fb5 Ab5 Cb6
+1    Ki Db4 Fb4 Ab4 Cb5   Db5 Fb5 Ab5 Cb6
+1 Hi Ki Db4 Fb4 Ab4 Cb5   Db5 Fb5 Ab5 Cb6
+1    Ki Db4 Fb4 Ab4 Cb5   Db5 Fb5 Ab5 Cb6
+1 Hi Sn Fb4 Ab4 Cb5 Eb5   Fb5 Ab5 Cb6 Eb6
+1    Ki Fb4 Ab4 Cb5 Eb5   Fb5 Ab5 Cb6 Eb6
+1 Hi Ki Fb4 Ab4 Cb5 Eb5   Fb5 Ab5 Cb6 Eb6
+1    Ki Fb4 Ab4 Cb5 Eb5   Fb5 Ab5 Cb6 Eb6
+1 Hi Ki Cb4 Eb4 Gb4 Bb4   Cb5 Eb5 Gb5 Bb5
+1       Cb4 Eb4 Gb4 Bb4   Cb5 Eb5 Gb5 Bb5
+1 Hi Ki Cb4 Eb4 Gb4 Bb4   Cb5 Eb5 Gb5 Bb5
+1       Cb4 Eb4 Gb4 Bb4   Cb5 Eb5 Gb5 Bb5
+1 Hi Sn Cb4 Eb4 Gb4 Bb4   Cb5 Eb5 Gb5 Bb5
+1    Ki Cb4 Eb4 Gb4 Bb4   Cb5 Eb5 Gb5 Bb5
+1 Hi Ki Cb4 Eb4 Gb4 Bb4   Cb5 Eb5 Gb5 Bb5
+1 Hi Ki Cb4 Eb4 Gb4 Bb4   Cb5 Eb5 Gb5 Bb5
+
+
+
+> start
+
+1 Hi    Ki
+1    Sn   
+1 Hi
+1 Hi    
+1    Sn 
+1 Hi    Ki
+1 Hi Sn   
+1    Sn 
+1 Hi    
+1 Hi     Ki
+1    Sn 
+1 Hi    
+
+1 Hi     
+1    Sn   
+1 Hi
+1 Hi    
+1    Sn 
+1 Hi    Ki
+1 Hi Sn   
+1    Sn 
+1 Hi    
+1 Hi      
+1    Sn 
+1 Hi    Ki
+
+1 Hi    Ki
+1    Sn   
+1 Hi
+1 Hi    Ki
+1    Sn 
+1 Hi    
+1 Hi Sn   
+1    Sn 
+1 Hi    
+1 Hi    Ki 
+1    Sn 
+1 Hi   
+
+1 Hi    
+1    Sn   
+1 Hi    Ki
+1 Hi     
+1    Sn 
+1 Hi    
+1 Hi    Ki
+1    Sn 
+1 Hi    
+1 Hi    
+1    Sn 
+1 Hi    Ki
+---------------------------
+1 Hi    Ki
+1    Sn   
+1 Hi
+1 Hi    Ki
+1    Sn 
+1 Hi    
+1 Hi Sn   
+1    Sn 
+1 Hi    
+1 Hi     Ki
+1    Sn 
+1 Hi    
+
+1 Hi     
+1    Sn   
+1 Hi
+1 Hi    
+1    Sn 
+1 Hi    Ki
+1 Hi Sn   
+1    Sn 
+1 Hi    
+1 Hi      
+1    Sn 
+1 Hi    Ki
+
+1 Hi    Ki
+1    Sn   
+1 Hi
+1 Hi    Ki
+1    Sn 
+1 Hi    
+1 Hi Sn   
+1    Sn 
+1 Hi    
+1 Hi    Ki 
+1    Sn 
+1 Hi   
+
+1 Hi    
+1    Sn   
+1 Hi    Ki
+1 Hi     
+1    Sn 
+1 Hi    
+1 Hi    Ki
+1    Sn 
+1 Hi    
+1 Hi    
+1    Sn 
+1 Hi    Ki
+> end
